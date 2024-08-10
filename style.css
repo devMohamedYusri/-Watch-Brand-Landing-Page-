@@ -56,10 +56,10 @@ html {
 }
 
 .welcome-section .welcome-content h1 {
-    font-size: 80px;
-    color: rgb(25, 37, 68);
+    font-size: 60px;
+    color: #192544;
     font-weight: bold;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .welcome-content .button {
